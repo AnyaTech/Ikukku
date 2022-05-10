@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ikukku
+- 👋 Hi, I’m @AnyaTech
 - 👀 I’m a Recruiter at Reasunta
 - 💞️ Learning smth new everyday
-- 📫 Telegram @Ikukku
+- 📫 Telegram @AnyaTech
 
 <!---
 Ikukku/Ikukku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
